@@ -190,6 +190,18 @@ main {
     .skills {
       display: block;
     }
+    header {
+      padding: 2em;
+      text-align: center;
+      background-image: url('./assets/background.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: 80%;
+      background-position-y: -150px;
+      color: white;
+      height: 500px;
+    }
   
     .skills .column {
       max-width: 100%;
