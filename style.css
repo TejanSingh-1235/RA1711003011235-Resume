@@ -57,6 +57,7 @@ article {
   
   header img {
     max-width: 150px;
+      border-radius: 50%;
   }
   
   h1 {
